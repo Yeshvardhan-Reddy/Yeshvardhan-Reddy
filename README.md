@@ -3,14 +3,10 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
-- <b>Snake Game</b>
-    - [Arcade snake game built using turtle module](https://github.com/Yeshvardhan-Reddy/snake_game)
- - <b>Pong Game</b>
+- <b>Turtle Module</b>
+    - [Arcade Snake Game](https://github.com/Yeshvardhan-Reddy/snake_game)
     - [The famous arcade game - Pong](https://github.com/Yeshvardhan-Reddy/Pong-Game)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-    - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
- - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-    - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+    - [Turtle Road Crossing Game](https://github.com/Yeshvardhan-Reddy/Turtle-Road-Crossing-Game)
 
 <h2> 🤳 Connect with me:</h2>
 
