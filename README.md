@@ -5,7 +5,7 @@
 
 - <b>Snake Game</b>
     - [Arcade snake game built using turtle module](https://github.com/Yeshvardhan-Reddy/snake_game)
- - <b>Pong Game (AlgoExpert)</b>
+ - <b>Pong Game</b>
     - [The famous arcade game - Pong](https://github.com/Yeshvardhan-Reddy/Pong-Game)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
     - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
