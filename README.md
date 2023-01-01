@@ -3,10 +3,19 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
-- <b>Turtle Module</b>
+- <b>GUI Desktop App Development</b>
+    - [Pomodoro App](https://github.com/Yeshvardhan-Reddy/Pomodoro-App)
+    - [Password Manager]()
+    - [Flashcard App]()
+    - [Quiz App]()
+  
+  
+- <b>Game Development</b>
     - [Arcade Snake Game](https://github.com/Yeshvardhan-Reddy/snake_game)
-    - [The famous arcade game - Pong](https://github.com/Yeshvardhan-Reddy/Pong-Game)
+    - [India States and UT Guessing Game](https://github.com/Yeshvardhan-Reddy/India-States-Game)
     - [Turtle Road Crossing Game](https://github.com/Yeshvardhan-Reddy/Turtle-Road-Crossing-Game)
+    - [US States Guessing Game](https://github.com/Yeshvardhan-Reddy/US-States-Game)
+    - [The famous arcade game - Pong](https://github.com/Yeshvardhan-Reddy/Pong-Game)
 <!-- 
 <h2> 🤳 Connect with me:</h2>
 
