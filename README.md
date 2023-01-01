@@ -1,5 +1,5 @@
 <h1>Hi, I'm Yesh!</h1>
-<h3>I started learning python a few months ago and since then I have found a new profound passion for programming.</h3>
+<h3>I started learning python a few months ago and since then I have found a new profound passion for coding.</h3>
 
 <h2>👨‍💻 Python Projects:</h2>
 
