@@ -5,7 +5,7 @@
 
 - <b>GUI Desktop App Development</b>
     - [Pomodoro App](https://github.com/Yeshvardhan-Reddy/Pomodoro-App)
-    - [Password Manager]()
+    - [Password Manager](https://github.com/Yeshvardhan-Reddy/Password_manager)
     - [Flashcard App]()
     - [Quiz App]()
   
