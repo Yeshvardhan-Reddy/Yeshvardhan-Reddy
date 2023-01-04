@@ -7,12 +7,16 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
+- <b>API</b>
+    - [Stock Trading News Alert](https://github.com/Yeshvardhan-Reddy/Trading-Stock-News-Alert)
+    - Spotify Playlist
+    - Amazon Price Tracker
+
 - <b>GUI Desktop App Development</b>
     - [Pomodoro App](https://github.com/Yeshvardhan-Reddy/Pomodoro-App)
     - [Password Manager](https://github.com/Yeshvardhan-Reddy/Password_manager)
     - [Flashcard App](https://github.com/Yeshvardhan-Reddy/Flashcard-App)
     - [Quiz App](https://github.com/Yeshvardhan-Reddy/Quiz-App)
-  
   
 - <b>Game Development</b>
     - [Arcade Snake Game](https://github.com/Yeshvardhan-Reddy/snake_game)
