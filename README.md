@@ -10,7 +10,7 @@
 - <b>API</b>
     - [Stock Trading News Alert](https://github.com/Yeshvardhan-Reddy/Trading-Stock-News-Alert)
     - [Spotify Playlist](https://github.com/Yeshvardhan-Reddy/Spotify-Playlist)
-    - Amazon Price Tracker
+    - [Amazon Price Tracker](https://github.com/Yeshvardhan-Reddy/AmazonPriceTracker)
 
 - <b>GUI Desktop App Development</b>
     - [Pomodoro App](https://github.com/Yeshvardhan-Reddy/Pomodoro-App)
