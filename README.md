@@ -9,7 +9,7 @@
 
 - <b>API</b>
     - [Stock Trading News Alert](https://github.com/Yeshvardhan-Reddy/Trading-Stock-News-Alert)
-    - Spotify Playlist
+    - [Spotify Playlist](https://github.com/Yeshvardhan-Reddy/Spotify-Playlist)
     - Amazon Price Tracker
 
 - <b>GUI Desktop App Development</b>
