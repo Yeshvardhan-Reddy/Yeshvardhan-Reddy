@@ -1,8 +1,8 @@
 <h1>Hi, I'm Yesh!</h1>
 <h3>I started learning python a few months ago and since then I have found a new profound passion for coding.</h3>
 
-- 🔭 I’m currently working on **building a website with Flask, Bootstrap, Html & Css**
-- 🌱 I’m currently learning **flask framework & DSA**
+- 🔭 I’m currently working on **building a website**
+- 🌱 I’m currently learning **MERN Stack & DSA**
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1-mvaxY6H-UiJKkbJLyHuQaU6XS11SH_Y/view?usp=share_link)
 
 <h2>👨‍💻 Python Projects:</h2>
