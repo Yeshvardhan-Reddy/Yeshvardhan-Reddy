@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yesh!</h1>
+<h1>Hi and Welcome!</h1>
 <!-- <h3>I started learning python a few months ago and since then I have found a new profound passion for coding.</h3> -->
 
 - 🔭 I’m currently working on **building a website**
