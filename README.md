@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **MERN Stack & DSA**
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1-mvaxY6H-UiJKkbJLyHuQaU6XS11SH_Y/view?usp=share_link)
 
-<h2>👨‍💻 Python Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>API</b>
     - [Stock Trading News Alert](https://github.com/Yeshvardhan-Reddy/Trading-Stock-News-Alert)
