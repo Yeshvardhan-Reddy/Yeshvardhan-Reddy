@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building a website**
 - 🌱 I’m currently learning **MERN Stack & DSA**
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1-mvaxY6H-UiJKkbJLyHuQaU6XS11SH_Y/view?usp=share_link)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1DH8MpuT33zHQTFGWXVHlkfnEnLyUBYOr/view?usp=drive_link)
 
 <h2>👨‍💻 Projects:</h2>
 
